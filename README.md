@@ -1,19 +1,23 @@
 # Assignment-2
  
-_in this assignment I have created a Vecta Corp web site containing 4 pages: Home, About Us, Solutions and Contact Us_
+*In the assignment 2, I have created 4 different pages and connected it with the hyperlink tag*  
 
-## Contents of pages
+## The pages are:
+1. Home page
+2. About Us 
+3. Solutions
+4. Contact Us
 
-### Home:
-_This web page is to give overview on goals and solutions provided by Vecta Corp organization_
+
+### Home page:  
+*This pages gives the brief introduction about the Vecta Corp and also the different sollutions.*
 
 ### About Us:
-_This web page lists the team info_
+*This page says the companys Overview and introdues the different team.*
 
 ### Solutions:
-_This web page provides detailed information on vProspect 2.0, vConvert 2.0 and vRetain 1.0_
+*This web page gives  detailed information on vProspect 2.0, vConvert 2.0 and vRetain 1.0.*
 
 ### Contact Us:
-_This web page provides contact details of Vecta Corp_
+*This page displays the conatct information.*
 
-**Cheers!!**
